@@ -1,18 +1,8 @@
 # Bonsai App
 
-**Datenschutz-Bestimmungen**
-
-Diese Seite wird verwendet, um Besucher über die Richtlinien für die Erfassung, Verwendung und Offenlegung persönlicher Informationen zu informieren, wenn sich jemand für die Verwendung der Bonsai App entschieden hat.
-
-Wenn Sie sich für die Nutzung des Dienstes entscheiden, stimmen Sie der Erfassung und Verwendung von Informationen in Bezug auf diese Richtlinie zu. Die von mir gesammelten persönlichen Daten werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Daten nur wie in dieser Datenschutzrichtlinie beschrieben verwenden oder an Dritte weitergeben.
-
-**Sammlung und Verwendung von Informationen**
-
-# Remembery
-
 **Privacy Policy**
 
-This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Remembery app.
+This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Bonsai app.
 
 If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
