@@ -1,8 +1,8 @@
-# Money Bonsai
+# Bonsai App
 
 **Datenschutz-Bestimmungen**
 
-Diese Seite wird verwendet, um Besucher über die Richtlinien für die Erfassung, Verwendung und Offenlegung persönlicher Informationen zu informieren, wenn sich jemand für die Verwendung der Money Bonsai App entschieden hat.
+Diese Seite wird verwendet, um Besucher über die Richtlinien für die Erfassung, Verwendung und Offenlegung persönlicher Informationen zu informieren, wenn sich jemand für die Verwendung der Bonsai App entschieden hat.
 
 Wenn Sie sich für die Nutzung des Dienstes entscheiden, stimmen Sie der Erfassung und Verwendung von Informationen in Bezug auf diese Richtlinie zu. Die von mir gesammelten persönlichen Daten werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Daten nur wie in dieser Datenschutzrichtlinie beschrieben verwenden oder an Dritte weitergeben.
 
